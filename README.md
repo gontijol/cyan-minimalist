@@ -23,8 +23,8 @@ Você pode instalar este tema diretamente do Visual Studio Code:
 
 ## Capturas de Tela
 
-![Screenshot 1](https://github.com/gontijol/cyan-minimalist/assets/screenshot1.png)
-![Screenshot 2](https://github.com/gontijol/cyan-minimalist/assets/screenshot2.png)
+![Screenshot 1]([https://github.com/gontijol/cyan-minimalist/assets/screenshot1.png](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot1.png))
+![Screenshot 2]([https://github.com/gontijol/cyan-minimalist/assets/screenshot1.png](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot2.png))
 
 ## Contribuindo
 
