@@ -1,0 +1,37 @@
+{
+  "name": "cyan-dark-min-theme",
+  "description": "A  version of the Cyan Dark Minimalist",
+  "displayName": "Cyan Dark Minimalist",
+  "version": "0.2.2",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "keywords": [
+    "themes",
+    "cyan",
+    "dark",
+    "gontijol"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyan Dark Minimalist",
+        "uiTheme": "vs-dark",
+        "path": "./cyan-dark-min-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce publish --no-yarn"
+  },
+  "publisher": "gontijol",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
