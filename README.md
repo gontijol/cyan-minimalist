@@ -1,6 +1,6 @@
 # Cyan Dark Minimalist - Tema para Visual Studio Code 0.2.2
 
-![Cyan Dark Minimalist](https://link_para_a_imagem.png)
+![Cyan Dark Minimalist](https://link_para_a_imagem.png](https://github.com/gontijol/cyan-minimalist/blob/main/assets/icon.png))
 
 Um tema escuro minimalista com destaque em tons de ciano para o Visual Studio Code.
 
@@ -23,8 +23,8 @@ Você pode instalar este tema diretamente do Visual Studio Code:
 
 ## Capturas de Tela
 
-![Screenshot 1]([https://github.com/gontijol/cyan-minimalist/assets/screenshot1.png](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot1.png))
-![Screenshot 2]([https://github.com/gontijol/cyan-minimalist/assets/screenshot1.png](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot2.png))
+![Screenshot 1](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot1.png))
+![Screenshot 2](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot2.png)
 
 ## Contribuindo
 
