@@ -26,13 +26,14 @@ Você pode instalar este tema diretamente do Visual Studio Code:
 ![Screenshot 1](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot1.png)
 ![Screenshot 2](https://github.com/gontijol/cyan-minimalist/blob/main/assets/screenshot2.png)
 
+## Licença
+
+Este tema é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Para sugestões, problemas ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request no [repositório do GitHub](https://github.com/gontijol/cyan-minimalist).
 
-## Licença
-
-Este tema é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 ---
 
